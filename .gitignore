@@ -1,3 +1,5 @@
+# here gitignore will ignore node_modules and main.css file
+
 dist
 node_modules
 src/css/main.css
